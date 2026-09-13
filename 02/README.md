@@ -4,7 +4,7 @@ Hasil score di email nya begini,
 
 ![score](score.png)
 
-dengan leaderboard rank 117 / 128.
+dengan leaderboard rank 111 / 129.
 
 ![leaderboard](leaderboard.png)
 

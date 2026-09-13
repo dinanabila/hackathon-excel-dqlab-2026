@@ -4,7 +4,7 @@
 Tujuan ikutan hackathon ini:
 - Mencicip dunia supply chain, inventory stock. 
 - Me-refresh skill excel. 
-- Upaya menambah kompetensi untuk job hunting dan peluang opportunity yang akan datang. 
+- Upaya menambah kompetensi untuk peluang opportunity yang akan datang. 
 
 Plan alur berpikir buat nyelesaiin hackathon ini:
 - Baca dan pahami pdf task hackathon nya. 
@@ -15,35 +15,16 @@ Plan alur berpikir buat nyelesaiin hackathon ini:
 
 
 My subjective random thoughts during hackathon:
-- Mengingat rule yang membebaskan peserta untuk menggunakan AI, maka melihat leaderboard menjadi tidak apple to apple lagi sebagai alat ukur diri. 
-- Yang oleh karenanya, leaderboard di hackathon kali ini sejatinya kebanyakannya lebih berfungsi sebagai pembanding seberapa bagus prompt dan seberapa cepat AI yang digunakan peserta.
-- Jadi di hackathon ini, aku lebih berfokus ke mindset berkompetisi terhadap diriku sendiri, dengan caraku sendiri, dengan pace ku sendiri. Durasi 24 jam yang diberikan penyelenggara lebih dari cukup untuk memfasilitasi pace itu. 
-
-
-## Hackathon Big Picture
-
-lorem ipsum
-
-## Hackathon Cases
-
-### Tugas 1: Populasi Data Proyeksi Demand
-
-
-
-
-### Tugas 2: Mengisi Min dan Max Inventory Level 
-
-
-### Tugas 3: Isi Data Jumlah dan Tanggal Reorder Produk 
-
-
-### Tugas 4: Status Kapasitas Gudang Berdasarkan Tanggal
-
-
-## Solution and Results
-
-SS hasil email. 
+- Mengingat rule yang membebaskan peserta untuk menggunakan AI, maka melihat leaderboard jadi kurang apple-to-apple dijadikan tolok ukur untuk membandingkan progres diri buatku. Terlebih saat ini aku lebih memprioritaskan pematangan konsep secara keseluruhan terlebih dahulu, baru kemudian mengejar kecepatan pengerjaan.
+- Yang oleh karenanya, leaderboard di hackathon kali ini sejatinya kebanyakannya lebih berfungsi sebagai pembanding seberapa bagus prompt dan seberapa cepat AI yang digunakan peserta. Saat ini aku belum dalam kondisi seperti itu, masih dalam fase belajar.
+- Jadi di hackathon ini, fokusnya lebih ke mindset kalau di sini aku berkompetisi terhadap diriku sendiri, dengan caraku sendiri, dengan pace ku sendiri. 
 
 ## After Thoughts
 
-Kesan setelah menyelesaikan hackathon ini?
+Kesan setelah menyelesaikan hackathon ini?: 
+
+Sooo in the end, the fastest solution is in the end are training agent, then. 
+
+![sol](img/training-agent.jpg)
+
+Training agent? This world seems determined to let **s**~~tu~~**peed**~~ity~~ guide humans through a life stripped of color and challenge. And the only challenge left is prompting and proofreading, like being an artist who’s no longer allowed to touch the canvas, the paints, nor the brushes.
