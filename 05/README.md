@@ -6,4 +6,4 @@ Score: 56.87
 
 Rank Leaderboard: 106 / 133
 
-![leaderboard](image.png)
+![leaderboard](leaderboard.png)
