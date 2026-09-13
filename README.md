@@ -16,15 +16,19 @@ Plan alur berpikir buat nyelesaiin hackathon ini:
 
 My subjective random thoughts during hackathon:
 - Mengingat rule yang membebaskan peserta untuk menggunakan AI, maka melihat leaderboard jadi kurang apple-to-apple dijadikan tolok ukur untuk membandingkan progres diri buatku. Terlebih saat ini aku lebih memprioritaskan pematangan konsep secara keseluruhan terlebih dahulu, baru kemudian mengejar kecepatan pengerjaan.
-- Yang oleh karenanya, leaderboard di hackathon kali ini sejatinya kebanyakannya lebih berfungsi sebagai pembanding seberapa bagus prompt dan seberapa cepat AI yang digunakan peserta. Saat ini aku belum dalam kondisi seperti itu, masih dalam fase belajar.
+- Yang oleh karenanya, leaderboard di hackathon kali ini sejatinya kebanyakannya lebih berfungsi sebagai pembanding seberapa bagus prompt dan seberapa cepat AI yang digunakan peserta. Saat ini aku belum dalam kondisi seperti itu, masih dalam fase memahami dan memaknai.
 - Jadi di hackathon ini, fokusnya lebih ke mindset kalau di sini aku berkompetisi terhadap diriku sendiri, dengan caraku sendiri, dengan pace ku sendiri. 
 
 ## After Thoughts
 
-Kesan setelah menyelesaikan hackathon ini?: 
-
-Sooo in the end, the fastest solution is in the end are training agent, then. 
+Sooo in the end, the fastest solution is in the end are training agent, then?
 
 ![sol](img/training-agent.jpg)
 
-Training agent? This world seems determined to let **s**~~tu~~**peed**~~ity~~ guide humans through a life stripped of color and challenge. And the only challenge left is prompting and proofreading, like being an artist who’s no longer allowed to touch the canvas, the paints, nor the brushes.
+Training agent? Nah nah. This world seems determined to let **s**~~tu~~**peed**~~ity~~ guide humans through a life stripped of color and challenge. The only challenge left is prompting and proofreading, like an artist who’s no longer touch canvas, paints, nor brushes, only guide and see and guide and see.
+
+Berusaha memahami di tengah derasnya arus kecepatan itu, sebenarnya sulit, dan menyesakkan. 
+
+Tapi, meski begitu, aku tetap ingin memahami, aku tetap ingin mengerti, 
+
+dan aku tetap akan berproses. 
