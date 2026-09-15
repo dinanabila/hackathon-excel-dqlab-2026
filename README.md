@@ -19,9 +19,25 @@ My subjective random thoughts during hackathon:
 - Yang oleh karenanya, leaderboard di hackathon kali ini sejatinya kebanyakannya lebih berfungsi sebagai pembanding seberapa bagus prompt dan seberapa cepat AI yang digunakan peserta. Saat ini aku belum dalam kondisi seperti itu, masih dalam fase memahami dan memaknai.
 - Jadi di hackathon ini, fokusnya lebih ke mindset kalau di sini aku berkompetisi terhadap diriku sendiri, dengan caraku sendiri, dengan pace ku sendiri. 
 
+## Hackathon Overview
+
+Raw data: 
+
+sheet `Demand Projection`:
+![Demand Projection sheet](img/demand_projection_sheet.png)
+
+sheet `Warehouse`:
+![Warehouse sheet](img/warehouse_sheet.png)
+
+sheet `Capacity`:
+![Capacity sheet](img/capacity_sheet.png)
+
+
 ## After Thoughts
 
-Sooo in the end, the fastest solution is in the end are training agent, then?
+*thought after 6th attempt*:
+
+Sooo in the end, the fastest solution is in the end is training agent, then?
 
 ![sol](img/training-agent.jpg)
 
