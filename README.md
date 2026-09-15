@@ -24,10 +24,11 @@ My subjective random thoughts during hackathon:
 Raw data: 
 
 - **sheet `Demand Projection`:** <br> <br>
-![Demand Projection sheet](img/demand_projection_sheet.png)
+<img src="img/demand_projection_sheet.png" alt="Demand Projection sheet" width="400">
+
 
 - **sheet `Warehouse`:** <br> <br>
-![Warehouse sheet](img/warehouse_sheet.png)
+<img src="img/warehouse_sheet.png" alt="Warehouse sheet" width="400">
 
 - **sheet `Capacity`:** <br> <br>
 ![Capacity sheet](img/capacity_sheet.png)
@@ -39,7 +40,7 @@ Raw data:
 
 Sooo in the end, the fastest solution is in the end is training agent, then?
 
-![sol](img/training-agent.jpg)
+<img src="img/training-agent.jpg" alt="Warehouse sheet" width="400"> <br>
 
 Training agent? Nah nah. This world seems determined to let **s**~~tu~~**peed**~~ity~~ guide humans through a life stripped of color and challenge. The only challenge left is prompting and proofreading, like an artist who’s no longer touch canvas, paints, nor brushes, only guide and see and guide and see.
 
