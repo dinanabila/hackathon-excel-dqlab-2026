@@ -23,13 +23,13 @@ My subjective random thoughts during hackathon:
 
 Raw data: 
 
-- **sheet `Demand Projection`:**
+- **sheet `Demand Projection`:** <br> <br>
 ![Demand Projection sheet](img/demand_projection_sheet.png)
 
-- **sheet `Warehouse`:**
+- **sheet `Warehouse`:** <br> <br>
 ![Warehouse sheet](img/warehouse_sheet.png)
 
-- **sheet `Capacity`:**
+- **sheet `Capacity`:** <br> <br>
 ![Capacity sheet](img/capacity_sheet.png)
 
 
