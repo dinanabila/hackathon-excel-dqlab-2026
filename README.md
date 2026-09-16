@@ -23,8 +23,20 @@ My subjective random thoughts during hackathon:
 
 Raw data: 
 
-- **sheet `Demand Projection`:** <br> <br> <img src="img/demand_projection_sheet.png" alt="Demand Projection sheet" width="400">
+- **sheet `Demand Projection`:** <br> <br> <img src="img/demand_projection_sheet.png" alt="Demand Projection sheet" width="400"> <br><br>
+Keterangan:
 
+    - Ini sheet untuk melakukan proyeksi jumlah permintaan di setiap tanggal yang sama seperti data sebelumnya, untuk setiap bulan sampai Desember 2026. 
+    - Produknya ada 5 jenis: SKU PROD A, B, C, D, E.
+    - Task nya mengisi proyeksi jumlah permintaan di bulan selanjutnya untuk tanggal yang sama seperti bulan sebelumnya, mengikuti rule proyeksi yang ditentukan di instruksi.
+    - Rule proyeksinya: 
+    <img src="img/rule_proyeksi_1.jpg" alt="rule proyeksi 1" width="400">
+    <img src="img/rule_proyeksi_2.jpg" alt="rule proyeksi 2" width="400"> <br>
+    - Nantinya sheet ini akan digunakan sebagai basis perhitungan stok minimal dan maksimal yang mungkin di gudang untuk masing-masing SKU, di sheet Capacity. 
+    - Yang mana, dari situ juga akan digunakan sebagai basis perhitungan untuk penentuan tanggal reorder produk di sheet Warehouse.
+
+
+<br>
 
 - **sheet `Warehouse`:** <br> <br> <img src="img/warehouse_sheet.png" alt="Warehouse sheet" width="400">
 
