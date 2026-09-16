@@ -29,9 +29,7 @@ Keterangan:
     - Ini sheet untuk melakukan proyeksi jumlah permintaan di setiap tanggal yang sama seperti data sebelumnya, untuk setiap bulan sampai Desember 2026. 
     - Produknya ada 5 jenis: SKU PROD A, B, C, D, E.
     - Task nya mengisi proyeksi jumlah permintaan di bulan selanjutnya untuk tanggal yang sama seperti bulan sebelumnya, mengikuti rule proyeksi yang ditentukan di instruksi.
-    - Rule proyeksinya: 
-    <img src="img/rule_proyeksi_1.jpg" alt="rule proyeksi 1" width="400">
-    <img src="img/rule_proyeksi_2.jpg" alt="rule proyeksi 2" width="400"> <br>
+    - Rule proyeksinya: <br><img src="img/rule_proyeksi_1.jpg" alt="rule proyeksi 1" width="400"><br><img src="img/rule_proyeksi_2.jpg" alt="rule proyeksi 2" width="400">
     - Nantinya sheet ini akan digunakan sebagai basis perhitungan stok minimal dan maksimal yang mungkin di gudang untuk masing-masing SKU, di sheet Capacity. 
     - Yang mana, dari situ juga akan digunakan sebagai basis perhitungan untuk penentuan tanggal reorder produk di sheet Warehouse.
 
@@ -48,9 +46,9 @@ Keterangan:
 
 *thought after 6th attempt*:
 
-Sooo in the end, the fastest solution is in the end is training agent, then?
+Sooo in the end, the fastest solution in the end is training agent, then?
 
-<img src="img/training-agent.jpg" alt="Warehouse sheet" width="400"> <br>
+<img src="img/training-agent.jpg" alt="Warehouse sheet" width="450"> <br>
 
 Training agent? Nah nah. This world seems determined to let **s**~~tu~~**peed**~~ity~~ guide humans through a life stripped of color and challenge. The only challenge left is prompting and proofreading, like an artist who’s no longer touch canvas, paints, nor brushes, only guide and see and guide and see.
 
