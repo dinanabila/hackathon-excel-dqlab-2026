@@ -18,8 +18,15 @@ Keterangan:
 
 - **sheet `Warehouse`:** <br> <br> <img src="img/warehouse_sheet.png" alt="Warehouse sheet" width="400"> <br> <br>
 Keterangan:
-    - Sheet Warehouse, versi raw nya dari sana nya terdiri dari 5 kolom: #, Item / SKU, Date, Stock Qty, dan Status.
-    - Kotretan perhitungan reorder beserta gambaran terkait di mana persisnya informasi stock quantity nya diupdate, untuk case SKU PROD A:  <br> <img src="img/reorder-scratch.jpg" alt="scratch reorder" width="400"> <br> 
+    - Sheet Warehouse, versi raw dari sana nya terdiri dari 5 kolom: #, Item / SKU, Date, Stock Qty, dan Status. Baris data raw: baris 2 sampai 5, yang mana seluruhnya merupakan data Initial Stock. 
+    - Untuk seterusnya, kolom Status isiannya adalah Reorder, yang mana merupakan jumlah kuantitas produk yang perlu direorder sesuai ketentuan.
+    - **Ketentuan reorder:** dilakukan jika jumlah order dari kebutuhan / demand pada tanggal tersebut di  bawah angka minimal inventory level dari produk tersebut. Ketika keadaan tersebut terjadi, reorder harus dilakukan dengan jumlah untuk mencapai inventory level maksimal dari produk tersebut. 
+    - Kotretan perhitungan kuantitas reorder beserta gambaran terkait kapan persisnya informasi Stock Qty nya diupdate, untuk case SKU PROD A:  <br> <img src="img/reorder-scratch.jpg" alt="scratch reorder" width="400"> <br> 
+    - Lalu pada sheet ini juga diminta untuk membuat kolom baru: **`Arrival Date`** dan **`Kapasitas Gudang`**.
+    - Arrival Date diisi dengan tanggal sampainya barang yang sudah diorder ke gudang. Durasi setiap pengiriman adalah 3 hari terhitung sejak tanggal pada kolom Date pada baris data yang sama.
+    - Contoh perhitungan kapasitas gudang, untuk case initial stock: <br> <img src="img/kapasitas_gudang.jpg" alt="scratch kapasitas gudang initial stock" width="400"> <br> 
+    - Rule perhitungan kapasitas gudang: hitung stok SKU Produk A s.d. stok SKU Produk E di gudang  pada tanggal arrival dikurangi demand pada saat arrival, dibandingkan dengan informasi kapasitas gudang yang ada pada sheet Capacity. Lakukan perhitunganya untuk masing-masing SKU dulu, baru setelah angka masing-masingnya sudah ada, jumlahkan, lalu isi untuk masing-masing SKU dengan arrival date yang sama.
+
 
 <br>
 
