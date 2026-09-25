@@ -18,8 +18,8 @@ Keterangan:
 
 - **sheet `Warehouse`:** <br> <br> <img src="img/warehouse_sheet.png" alt="Warehouse sheet" width="400"> <br> <br>
 Keterangan:
-    - test
-
+    - Sheet Warehouse, versi raw nya dari sana nya terdiri dari 5 kolom: #, Item / SKU, Date, Stock Qty, dan Status.
+    - Kotretan perhitungan reorder beserta gambaran terkait di mana persisnya informasi stock quantity nya diupdate, untuk case SKU PROD A:  <br> <img src="img/reorder-scratch.jpg" alt="scratch reorder" width="400"> <br> 
 
 <br>
 
